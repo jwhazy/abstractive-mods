@@ -1,0 +1,19 @@
+{
+  "id": "",
+  "name": "",
+  "shortDescription": "",
+  "currentVersion": "",
+  "previousVersions": [""],
+  "clients": [""],
+  "content": {
+    "icon": "",
+    "banner": ""
+  },
+  "files": [
+    {
+      "file": ".pak",
+      "type": "Pak",
+      "includesSig": false
+    }
+  ]
+}

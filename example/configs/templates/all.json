@@ -1,0 +1,29 @@
+{
+  "id": "",
+  "name": "",
+  "shortDescription": "",
+  "longDescription": "",
+  "currentVersion": "",
+  "previousVersions": [""],
+  "contributors": [""],
+  "repository": "",
+  "clients": [""],
+  "content": {
+    "icon": "",
+    "banner": "",
+    "primaryColor": "",
+    "secondaryColor": "",
+    "media": [""]
+  },
+  "files": [
+    {
+      "file": ".pak",
+      "type": "Pak",
+      "includesSig": true
+    },
+    {
+      "file": ".sig",
+      "type": "Sig"
+    }
+  ]
+}
