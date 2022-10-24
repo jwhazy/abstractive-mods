@@ -16,6 +16,10 @@ You can add a mod by forking & cloning this repository. Create a folder in `mods
 
 You can see examples and templates in the GitHub repository under `example\configs` in their respective folders. An template is a JSON file with the keys and no values. An example is the same except with placeholder information. Use these to create your own info.json.
 
+## Issues or feedback?
+
+Issues can be directly resolved with me inside the [Jacksta Development Discord server](https://discord.gg/jvaBE3vVBe). Any feedback or changes you believe would benefit Abstractive can be requested also inside the Discord, or fixed with a PR.
+
 ## Schema
 
 ### Required fields
