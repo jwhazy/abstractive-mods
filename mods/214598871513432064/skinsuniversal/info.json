@@ -1,0 +1,33 @@
+{
+  "id": "skinsuniversal",
+  "name": "Skins Universal full",
+  "shortDescription": "Skins for all versions of Fortnite.",
+  "longDescription": "Skins for all versions of Fortnite.",
+  "currentVersion": "v1.0.0",
+  "previousVersions": ["v0.0.0"],
+  "contributors": ["jacksta2", "jacksta3"],
+  "repository": "https://github.com/jwhazy/abstractive",
+  "clients": ["7.40-CL-5046157"],
+  "content": {
+    "icon": "https://assets1.ignimgs.com/2018/03/06/fortnite---button-1520296499714.jpg",
+    "banner": "https://cdn1.epicgames.com/offer/fn/21BR_KeyArt_EGS_Launcher_Blade_2560x1440_2560x1440-5335449297e75a6cc7c72ad01609b8e1",
+    "primaryColor": "#967b30",
+    "secondaryColor": "#63511f",
+    "media": [
+      "https://pbs.twimg.com/profile_banners/1406395237166051329/1649319320/1500x500",
+      "https://pbs.twimg.com/profile_banners/1406395237166051329/1649319320/1500x500",
+      "https://pbs.twimg.com/profile_banners/1406395237166051329/1649319320/1500x500"
+    ]
+  },
+  "files": [
+    {
+      "file": "pakchunkData-WindowsClient.pak",
+      "type": "Pak",
+      "includesSig": true
+    },
+    {
+      "file": "pakchunkData-WindowsClient.sig",
+      "type": "Sig"
+    }
+  ]
+}
