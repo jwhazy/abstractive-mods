@@ -1,3 +1,5 @@
+Abstractive has been discontinued as of 27/2/2023.
+
 # Abstractive Mods
 
 If you have a Fortnite mod you've created and would like it on the Abstractive marketplace you can create a pull request after reading the terms and creating a config file with the following schema.
